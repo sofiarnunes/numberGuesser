@@ -97,4 +97,3 @@ function setMessage(msg, color) {
     message.textContent = msg;
 }
 
-console.log(winningNum)
